@@ -4,6 +4,7 @@ Terraform module for deploying auto-scaling [GitLab Runner](https://docs.gitlab.
 
 ## Architecture
 
+
 ```
                           ┌────────────────────────────────────────┐
                           │ AWS VPC                                │
